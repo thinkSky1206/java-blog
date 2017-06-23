@@ -1,6 +1,7 @@
 #1 安装docker和ghost镜像
 ssh root@ip  
 
+
 yes
 
 sudo yum install docker
